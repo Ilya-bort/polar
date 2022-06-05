@@ -189,7 +189,7 @@ h1,h2,h3,h4,h5,h6 {font-size: inherit;font-weight: inherit;}
 			top: 0;
 			right: 0;
 			width: 100%;
-			height: 100%;
+			height: 100vh;
 			background-color: #fafafafb;
 			flex-direction: column;
 			justify-content: center;
